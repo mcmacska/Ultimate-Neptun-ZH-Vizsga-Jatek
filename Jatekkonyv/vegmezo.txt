@@ -1,0 +1,4 @@
+0/Parhuzamos Programozas vizsga/200
+1/Analizis II. vizsga/200
+2/Dimat vizsga/210
+3/Linearis algebra vizsga/250

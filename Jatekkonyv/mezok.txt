@@ -1,0 +1,27 @@
+0/Be kell menned az egyetemre./0/0/0/4/5/Ha bemesz az epuletbe, ird be, hogy: /Ha inkabb otthon maradsz es Cyberpunk 2077-el jatszol, ird be, hogy: /false
+1/Megertetted az anyagot, de elaludtal ora kozben, es nem irtal meg egy ZH-t./28/-4/0/22/25/Ha megnezel egy indiai tutorialt, ird be, hogy: /Ha megirod a kihagyott ZH-t, ird be, hogy: /false
+2/Bementel Diszkret matek orara, kapsz 15 jegyzetet./15/3/0/8/10/Ha elmesz sorozni, ird be, hogy: /Ha tanulsz a kovetkezo orara, hogy: /false
+3/Incoming: vizsga!/0/0/0/30/25/Ha mesz vizsgazni, ird be, hogy: /Ha inkabb ZH-t irnal, ird be, hogy: /false
+4/At akartal kelni a zebran, de elcsapott a helyijarat es kiesett a zsebedbol 5 jegyzetet, korhazban ebredsz./-5/0/0/2/6/Ha visszamesz az egyetemre, ird be, hogy: /Ha felmesz az Internetre, ird be, hogy: /false
+5/A jatek nem tolt be, mert nem eleg jo a videokartyad./0/-25/0/14/4/Ha bemesz megirni egy ZH-t, ird be, hogy: /Ha veszel videokartyat, ird be, hogy: /false
+6/Csatlakozol az Internetre, de nem kapcsoltad be a VPN-t, ezert eszreveszik, hogy nem te irtad meg a Digszam ZH-t./0/-5/0/2/10/Ha visszamesz az egyetemre, ird be, hogy: /Elkezdesz Angry Birds-ozni a telefonodon, ird be, hogy: /false
+7/Energiaitalt ittal, ezert eszedbe jut, hogy elfelejtettel felvenni egy targyat./0/20/0/23/13/Ha felveszed, ird be, hogy: /Ha nem, ird be, hogy: /false
+8/Fizetsz egy kort a pultnal egy felsobbevesnek, aki 25 jegyzetet ad cserebe./10/5/0/20/15/Ha elmesz konditerembe, ird be, hogy: /Ha iszol meg egyet, ird be, hogy: /false
+9/Siker./10/5/0/21/22/Ha Perl scripteket irsz, ird be, hogy: /Ha megnezel egy indiai tutorialt, ird be, hogy: /false
+10/Az egyetem atall digitalis oktatasra, 8 beadandot kell irnod ezen a heten./4/-15/0/16/8/Ha nekiallsz a beadandoknak, ird be, hogy: /Ha elmesz sorozni, ird be, hogy: /false
+11/Nincs penzed, mert nem jott meg az osztondij, de valaki ott hagyta a szendvicset./0/-1/0/18/7/Ha megeszed, ird be, hogy: /Ha megiszol egy energiaitalt, ird be, hogy: /false
+12/Takaritas kozben talaltal 17 jegyzetet./17/0/0/19/17/Ha csinalsz egy Moodle gyakorlo tesztet, ird be, hogy: /Ha megnezel egy sorozatot, ird be, hogy: /false
+13/Sajnalom, de alapkovetelmeny ezt a targyat teljesiteni, (elvesztettel 5 jegyzetet) kerlek probald meg megegyszer./-5/-1/0/23/13/Ha felveszed, ird be, hogy: /Ha nem, ird be, hogy: /false
+14/Sikerult a ZH./10/0/0/21/24/Ha megprobalod feltorni a Neptun-t, ird be, hogy: /Ha mesz aludni, ird be, hogy: /true
+15/Masnaposan ebredsz, elkestel az eloadasrol./0/-30/0/7/11/Ha megiszol egy energiaitalt, ird be, hogy: /Ha elmesz a bufebe, ird be, hogy: /false
+16/Beadando irasa kozben leontotted kaveval a jegyzeteidet, ezert 10 jegyzetet elvesztesz./-10/0/0/23/28/Ha megprobalod online megirni, ird be, hogy: /Ha nem, ird be, hogy: /false
+17/Megneztel egy sorozatot, de kozben nem tanultal semmit, ezert elvesztettel 15 jegyzetet./-15/0/0/24/26/Ha megnezel meg egyet, ird be, hogy: /Ha kiszamolod az atlagodat, ird be, hogy: /false
+18/A szendvicsben talalsz egy puskat./0/0/160/7/26/Ha megiszol egy energiaitalt, ird be, hogy: /Ha nullaval osztasz, ird be, hogy: /false
+19/Rakattintottal a 'Probalkozas vege' gombra es elobb adtal le egy feladatot, mint hogy befejezted volna, ezert veszitettel 10 jegyzetet./-10/0/0/23/11/Ha felveszel egy szabval targyat, ird be, hogy: /Ha megeszel egy pizzat a bufeben, ird be, hogy: /false
+20/Feketen uzletelsz kondiberletekkel jegyzetert, kapsz 12 jegyzetet./12/1/0/1/25/Ha bemesz egy online konzultaciora, ird be, hogy: /Ha megirsz egy ZH-t, ird be, hogy: /false
+21/Kekhalalt kapott a geped./0/-20/0/12/24/Ha kitakaritod a lakast, ird be, hogy: /Ha megiszol egy pohar whiskey-t, ird be, hogy: /false
+22/Megneztel egy indiai tutorialt, kapsz 20 jegyzetet./20/1/0/19/21/Ha felmesz Moodle-re, ird be, hogy: /Ha megprobalod ezt a jatekot futtatni tobb szalon, ird be, hogy: /false
+23/Lefagyott a Neptun, ujra probalod?/0/-1/0/23/28/Ha ujra probalod, ird be, hogy: /Ha nem, ird be, hogy: /false
+24/Inkabb a vizsgara kellene tanulni./0/0/0/3/23/Ha keszen allsz a vizsgara, ird be, hogy: /Ha beadandot keszitesz, ird be, hogy: /false
+25/Sikerult a ZH./10/0/0/17/12/Ha megnezel egy sorozatot, ird be, hogy: /Ha kitakaritod a lakast, ird be, hogy: /true
+26/Nullaval osztottal, ezert buntetes jar. Elvesztettel 15 jegyzetet./-15/-1/0/24/14/Ha random YouTube videokat nezel, ird be, hogy: /Ha irsz egy ZH-t, hogy: /false
